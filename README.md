@@ -8,7 +8,7 @@
 * step2: we used MediaPipe library to generate the landmark points of the face of each image in dataset.
 * Due to issues where some pictures weren't loaded properly, only 1711 samples were collected with 940 features (468 for X and 468 for Y).
 * step3: we used mat file extract the 3 angels and it well be our labels
-* step4: we split our data using train-text split, then used supervised ml (----) 
+* step4: we split our data using train-text split, then used SVM model  
 * step5: in testing we used the MediaPipe Library to generate the landmarks as we did in the training phase and using the trained models to predict the 3 labels and using them to draw the axis.
 
 ## Output Example
