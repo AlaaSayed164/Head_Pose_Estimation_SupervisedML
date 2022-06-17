@@ -4,6 +4,9 @@
 
 ## General info
 * In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel.
+![Axis-rotations-pitch-yaw-and-roll-and-translation-specified-by-a-translation-vector-t](https://user-images.githubusercontent.com/101005712/174389225-7f15aa6d-05ff-4afc-a1ad-9cbf24396f26.png)
+
+
 * step1: we download  AFLW2000 dataset that contain 2000 image and 2000 matlab file.
 * step2: we used MediaPipe library to generate the landmark points of the face of each image in dataset.
 * Due to issues where some pictures weren't loaded properly, only 1711 samples were collected with 940 features (468 for X and 468 for Y).
