@@ -20,3 +20,8 @@ In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting 
 Here we have input video 
 
 https://user-images.githubusercontent.com/101012562/174391717-c0bce16c-af8c-4a36-8477-15f6e13e8131.mp4
+
+
+
+For another example of this project performed using the dlib library, please follow this link:
+https://github.com/MohamedIbrahimITI/Pose-Estimation-using-dlib
