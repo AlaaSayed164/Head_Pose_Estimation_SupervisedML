@@ -19,5 +19,3 @@ In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting 
 ## Output Example
 Here we have input video 
 
-https://user-images.githubusercontent.com/101012562/174388239-94581ed9-7b49-41a7-93d0-54ef53fe7d7b.mp4
-
