@@ -6,7 +6,8 @@
 In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel.
 
 
-![Axis-rotations-pitch-yaw-and-roll-and-translation-specified-by-a-translation-vector-t](https://user-images.githubusercontent.com/101005712/174389225-7f15aa6d-05ff-4afc-a1ad-9cbf24396f26.png)
+![Axis-rotations-pitch-yaw-and-roll-and-translation-specified-by-a-translation-vector-t](https://user-images.githubusercontent.com/101005712/174391309-c0380eb5-164a-47ab-b8c7-9b5df4e57aa9.png)
+
 
 
 * step1: we download  AFLW2000 dataset that contain 2000 image and 2000 matlab file.
