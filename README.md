@@ -1,7 +1,7 @@
 ## Head_Pose_Estimation_SupervisedML
 * [General info](#general-info)
 * [Output Example](#Output-Examples)
-
+* [Other](#Other)
 ## General info
 In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel.
 
@@ -22,6 +22,9 @@ Here we have input video
 https://user-images.githubusercontent.com/101012562/174391717-c0bce16c-af8c-4a36-8477-15f6e13e8131.mp4
 
 
+
+
+## Other
 
 For another example of this project performed using the dlib library, please follow this link:
 https://github.com/MohamedIbrahimITI/Pose-Estimation-using-dlib
