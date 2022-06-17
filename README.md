@@ -5,12 +5,14 @@
 ## General info
 * In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel.
 * step1: we download  AFLW2000 dataset that contain 2000 image and 2000 matlab file.
-* step2: we used MediaPipe library to generate the landmark points of the face of each image in dataset .
-Now we have  2000 samples with 936 columns (468 for X and 468 for Y).
+* step2: we used MediaPipe library to generate the landmark points of the face of each image in dataset.
+* Due to issues where some pictures weren't loaded properly, only 1711 samples were collected with 940 features (468 for X and 468 for Y).
 * step3: we used mat file extract the 3 angels and it well be our labels
 * step4: we split our data using train-text split, then used supervised ml (----) 
 * step5: in testing we used the MediaPipe Library to generate the landmarks as we did in the training phase and using the trained models to predict the 3 labels and using them to draw the axis.
 
 ## Output Example
 Here we have input video 
+
+https://user-images.githubusercontent.com/101012562/174388239-94581ed9-7b49-41a7-93d0-54ef53fe7d7b.mp4
 
