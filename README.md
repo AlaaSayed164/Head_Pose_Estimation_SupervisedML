@@ -4,6 +4,8 @@
 
 ## General info
 * In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel.
+
+
 ![Axis-rotations-pitch-yaw-and-roll-and-translation-specified-by-a-translation-vector-t](https://user-images.githubusercontent.com/101005712/174389225-7f15aa6d-05ff-4afc-a1ad-9cbf24396f26.png)
 
 
