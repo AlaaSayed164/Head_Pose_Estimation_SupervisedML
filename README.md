@@ -2,6 +2,9 @@
 * [General info](#general-info)
 * [Output Example](#Output-Examples)
 * [Other](#Other)
+
+
+
 ## General info
 In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel.
 
@@ -16,10 +19,15 @@ In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting 
 * step4: we split our data using train-text split, then used SVM model  
 * step5: in testing we used the MediaPipe Library to generate the landmarks as we did in the training phase and using the trained models to predict the 3 labels and using them to draw the axis.
 
+
+
+
 ## Output Example
 Here we have input video 
 
 https://user-images.githubusercontent.com/101012562/174391717-c0bce16c-af8c-4a36-8477-15f6e13e8131.mp4
+
+
 
 
 
